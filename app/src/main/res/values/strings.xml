@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello world</string>
+    <string name="test">tst</string>
+    <string name="enter_nbr">enter number</string>
+    <string name="get">Get</string>
+    <string name="button">Button</string>
+    <string name="مرحبا">salam</string>
+</resources>
